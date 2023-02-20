@@ -1,6 +1,6 @@
 This folder contains the datasets used in this forecasting workshop.
 
-## combined_solcast_EMS_data
+## Combined EMS_Solcast_data
 Contains synchronised raw satellite weather data and EMS data for one minigrid.
 
 ## imputed_data

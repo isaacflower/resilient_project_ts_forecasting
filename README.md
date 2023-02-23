@@ -26,4 +26,4 @@ This repository contains 4 notebooks that work through the creation of `neural n
 1. Install Python through Anaconda
 2. Install the above packages
 3. Download the data and notebooks and try to run through the code.
-4. Train your own neural network models to forecast the "continuous_data"
+4. Train your own neural network models to forecast the "panama_data"

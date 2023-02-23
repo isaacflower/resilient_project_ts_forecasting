@@ -15,12 +15,12 @@ Variables
 - QV2M: Relative humidity at 2 meters
 - TQL: Liquid precipitation
 - W2M: Wind speed at 2 meters
-- 
+
 And after the underscore is the city:
 - toc: Tocumen, Panama City
 - san: Santiago City
 - dav: David City
-- 
+
 The rest of the variables are:
 - Holiday_ID: Unique identification number integer
 - holiday: Holiday binary indicator (1 = holiday, 0 = regular day)

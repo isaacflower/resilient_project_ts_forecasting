@@ -10,11 +10,11 @@ These notebooks closely follow the following TensorFlow tutorials:
 ## Package Versions
 OS: Windows 10 Enterprise
 
-python==3.10.8 
-matplotlib==3.6.2 
-numpy==1.24.1 
-pandas==1.5.2 
-scikit-learn==1.2.1 
-seaborn==0.12.2 
-tensorflow==2.11.0 
-tensorflow-probability==0.19.0 
+python==3.10.8  
+matplotlib==3.6.2  
+numpy==1.24.1  
+pandas==1.5.2  
+scikit-learn==1.2.1  
+seaborn==0.12.2  
+tensorflow==2.11.0  
+tensorflow-probability==0.19.0  

@@ -1,7 +1,7 @@
 This folder contains the datasets used in this forecasting workshop.
 
 ## Combined EMS_Solcast_data.xlsx
-Contains synchronised raw satellite weather data and EMS data for one minigrid.
+Contains synchronised raw satellite weather data and EMS data for the GionserB mini-grid in Kenya.
 
 ## imputed_data.csv
 This dataset has been created from Combined EMS_Solcast_data.xlsx where missing values have been imputed using the multivariate inputation by chained equations (MICE) method. This dataset is the output of the data_preprocessing.ipynb script.

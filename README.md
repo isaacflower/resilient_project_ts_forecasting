@@ -18,3 +18,12 @@ scikit-learn==1.2.1
 seaborn==0.12.2  
 tensorflow==2.11.0  
 tensorflow-probability==0.19.0  
+
+## Notebooks
+This repository contains 4 notebooks that work through the creation of `neural network` and `structural time` series forecasting models for `electrical load` and `PV generation` data.
+
+## Exercises
+1. Install Python through Anaconda
+2. Install the above packages
+3. Download the data and notebooks and try to run through the code.
+4. Train your own neural network models to forecast the "continuous_data"

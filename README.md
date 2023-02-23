@@ -27,3 +27,5 @@ This repository contains 4 notebooks that work through the creation of `neural n
 2. Install the above packages
 3. Download the data and notebooks and try to run through the code.
 4. Train your own neural network models to forecast the "panama_data"
+
+Rough template solutions are included in the `exercise_solutions.ipynb` notebook

@@ -24,7 +24,7 @@ tensorflow-probability==0.19.0
 This repository contains 4 notebooks that work through the creation of `neural network` and `structural time series` forecasting models for `electrical load` and `PV generation` data.
 
 ## Accompanying Material
-I have uploaded the slides that were presented in the workshop (`slides.pdf`) and the accompanying workshop manual (`manual`).
+I have uploaded the slides that were presented in the workshop (`slides.pdf`) and the accompanying workshop manual (`manual.pdf`).
 
 ## Exercises
 1. Install Python through Anaconda: https://www.anaconda.com/products/distribution
